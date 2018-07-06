@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud-consul-mesh-sample'
+include 'book-api'
+include 'book-info'
